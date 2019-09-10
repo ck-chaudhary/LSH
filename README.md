@@ -1,0 +1,2 @@
+# LSH
+doucument plagarism checker
